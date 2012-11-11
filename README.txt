@@ -11,6 +11,6 @@ To load some data into the index:
     cd exampledocs
     ./post.sh *.xml
 
-Pckaged Versions:
+Packaged Versions:
 Solr : 3.6.1
 Jetty: 8.1.7.v20120910
